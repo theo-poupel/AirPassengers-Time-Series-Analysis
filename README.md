@@ -1,21 +1,3 @@
----
-title: "International Airline Passengers"
-subtitle: "Time Series Analysis "
-author:
-- name:"Theo Poupel"
-date: "March 2024"
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
-
-```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri("QMlogo.png"), 
-               alt = 'logo', 
-               style = 'position:absolute; top:0; right:0; padding:10px; width:20%;')
-```
-
 # Analysis of airline passengers 
 
 The analysis of the monthly totals of international airline passengers from 1949 to 1960, will help us analyse how international air travel resumed after the Second World War. 
